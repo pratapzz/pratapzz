@@ -1,4 +1,4 @@
-# 💫Hello, World! 👋
+# 💫Hello, World! I'm Pratap,an Indian Developer🇮🇳👋
 
 I'm **Pratap Paul**, an Indian 🇮🇳 Computer Science student passionate about technology and software development.
 
