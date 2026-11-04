@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Pratap's GitHub Banner">
+</p>
+
+
+
 # 💫Hello, World! I'm Pratap,an Indian Developer🇮🇳👋
 
 I'm **Pratap Paul**, an Indian 🇮🇳 Computer Science student passionate about technology and software development.
