@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="./banner.jpg" width="100%" alt="Pratap's GitHub Banner">
-</p>
-
-
+<img src="./banner.jpg" width="80%">
 
 # 💫Hello, World! I'm Pratap,an Indian Developer🇮🇳👋
 
