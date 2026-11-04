@@ -26,4 +26,12 @@ I'm **Pratap Paul**, an Indian 🇮🇳 Computer Science student passionate abou
 ---
 [![](https://komarev.com/ghpvc/?username=pratapzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2 align="center">🐍 My GitHub Contributions</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratapzz/pratapzz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratapzz/pratapzz/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pratapzz/pratapzz/output/github-contribution-grid-snake.svg">
+</picture>
+
