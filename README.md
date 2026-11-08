@@ -1,4 +1,6 @@
-<img src="./banner.jpg" width="80%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratapzz/pratapzz/main/pratap.gif" width="100%" alt="Banner">
+</p>
 
 # 💫Hello, World! I'm Pratap,an Indian Developer🇮🇳👋
 
